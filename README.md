@@ -105,5 +105,5 @@ Interested in partnering, publishing, or sponsoring?
 📧 Email: [mujjuchatbot@gmail.com](mailto:mujjuchatbot@gmail.com)  
 🌐 GitHub: [github.com/mujju](https://github.com/mujju)    
 📌 Status: Pre-launch / Demo-ready  
-🌐 Demo: [https://mujjuchatbot.onrender.com](https://mujjuchatbot.onrender.com)
+🌐 Demo: [https://mujju.toolsprompt.com](https://mujju.toolsprompt.com)
 
